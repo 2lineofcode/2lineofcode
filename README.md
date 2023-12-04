@@ -6,6 +6,6 @@
 - ⚡ Fun fact: I love white theme, my friend say am weird coz of that
 
 
-This is the time I waste for coding every 3 months:
+This is the time I waste for coding in this year:
 
 [![wakatime](https://wakatime.com/badge/user/a41b1f42-8d3a-43fa-8de5-0da19cf1ea0c.svg)](https://wakatime.com/@a41b1f42-8d3a-43fa-8de5-0da19cf1ea0c)
